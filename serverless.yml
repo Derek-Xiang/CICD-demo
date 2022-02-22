@@ -1,5 +1,6 @@
 service: cicd-demo
 
+
 plugins:
   - serverless-python-requirements
 
